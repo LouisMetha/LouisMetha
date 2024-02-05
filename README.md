@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Louis
-- 👀 I’m interested in ...
+- 👀 I’m interested in building softwares that make life easier, particularly the concept of Artificial Intelligence
 - 🌱 I’m currently studying Computer Science
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/louismethaviriyavanich/
 
 <!---
